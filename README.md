@@ -45,8 +45,7 @@ Put your script in `scripts/`, and let [Gofflesby][g] do the rest :)
 [Gofflesby][g] automatically runs all the tests
 on `scripts/myscript.rb`, giving you pass/fail feedback instantly.
 
-A few samples are included in `scripts/`. Thanks to grelca for the PHP, and
-Kataklysmos for the C++.
+A few samples are included in `scripts/`. Thanks to grelca for the PHP.
 
 ### Language support
 
